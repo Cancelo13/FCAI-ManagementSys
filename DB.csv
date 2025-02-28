@@ -1,0 +1,17 @@
+Name,Email,Age,Password,ID,PhoneNumber,RegisteredCourses
+John Doe,john.doe@example.com,25,pass123,1,0123456789,"Data Structures, Algorithms, Operating Systems"
+Alice Smith,alice.smith@gmail.com,30,alicePass,2,01122334455,"Machine Learning, Database Systems, Artificial Intelligence"
+Bob Johnson,bob.johnson@yahoo.com,22,bobSecret,3,01011223344,"Computer Networks, Cybersecurity, Web Development"
+Charlie Brown,charlie.brown@hotmail.com,28,charlieX,4,01555667788,"Data Science, Software Engineering, Cloud Computing"
+Emily White,emily.white@outlook.com,21,emilyPass,5,01099887766,"Mobile App Development, Data Structures, Algorithms"
+David Black,david.black@company.com,27,david123,6,01111222333,"Operating Systems, Theory of Computation, Cryptography"
+Sarah Green,sarah.green@edu.org,23,sarah321,7,01233445566,"Big Data, Deep Learning, Software Engineering"
+Michael Blue,michael.blue@tech.com,26,michaelXYZ,8,01543218765,"Cybersecurity, Computer Vision, Network Security"
+Emma Red,emma.red@research.org,20,emmaPass,9,01056781234,"Web Development, Artificial Intelligence, Data Science"
+Oliver Grey,oliver.grey@university.edu,24,oliver007,10,01299887744,"Machine Learning, Algorithms, Database Systems"
+
+
+
+"Data Structures", "Algorithms", "Operating Systems","Machine Learning", "Database Systems", "Artificial Intelligence","Computer Networks", "Cybersecurity", "Web Development"
+,"Data Science", "Software Engineering", "Cloud Computing","Mobile App Development","Theory of Computation", "Cryptography","Big Data", "Deep Learning","Computer Vision","Network Security"
+,"Web Development"
